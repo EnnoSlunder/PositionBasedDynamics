@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file alias="VisNormalsG.vert">resources/shaders/VisNormalsG.vert</file>
+        <file alias="VisNormalsG.geom">resources/shaders/VisNormalsG.geom</file>
+        <file alias="VisNormalsG.frag">resources/shaders/VisNormalsG.frag</file>
+
+        <file alias="WireframeG.vert">resources/shaders/WireframeG.vert</file>
+        <file alias="WireframeG.geom">resources/shaders/WireframeG.geom</file>
+        <file alias="WireframeG.frag">resources/shaders/WireframeG.frag</file>
+
+        <file alias="WireframeLinesG.vert">resources/shaders/WireframeLinesG.vert</file>
+        <file alias="WireframeLinesG.geom">resources/shaders/WireframeLinesG.geom</file>
+        <file alias="WireframeLinesG.frag">resources/shaders/WireframeLinesG.frag</file>
+
+        <file alias="simple.frag">resources/shaders/simple.frag</file>
+        <file alias="simple.vert">resources/shaders/simple.vert</file>
+        <file alias="screen.vert">resources/shaders/screen.vert</file>
+        <file alias="screen.frag">resources/shaders/screen.frag</file>
+        <file alias="tmp.vert">resources/shaders/tmp.vert</file>
+        <file alias="tmp.frag">resources/shaders/tmp.frag</file>
+        <file alias="manipulator.vert">resources/shaders/manipulator.vert</file>
+        <file alias="manipulator.frag">resources/shaders/manipulator.frag</file>
+        <file alias="flat.vert">resources/shaders/flat.vert</file>
+        <file alias="flat.frag">resources/shaders/flat.frag</file>
+        <file alias="picking.frag">resources/shaders/picking.frag</file>
+        <file alias="picking.vert">resources/shaders/picking.vert</file>
+
+        <file alias="phongWireframe.frag">resources/shaders/phongWireframe.frag</file>
+        <file alias="phongWireframe.vert">resources/shaders/phongWireframe.vert</file>
+
+        <file alias="phongCalcNormals.frag">resources/shaders/phongCalcNormals.frag</file>
+        <file alias="phongCalcNormals.vert">resources/shaders/phongCalcNormals.vert</file>
+
+        <file alias="phong.frag">resources/shaders/phong.frag</file>
+        <file alias="phong.vert">resources/shaders/phong.vert</file>
+
+        <file alias="skybox.frag">resources/shaders/skybox.frag</file>
+        <file alias="skybox.vert">resources/shaders/skybox.vert</file>
+
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
